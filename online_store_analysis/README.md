@@ -39,7 +39,7 @@ The analysis is based on three interconnected tables:
 * The business relies heavily on high-volume, low-margin categories, but most profit comes from Office Supplies, Household, and Cosmetics.**
 
 ### 📈 Visualizations
-**category_analysis.png**
+**[Category Analysis](./category_analysis.png**
 **[Heatmap ](./heatmap.png)**
 ---
 *This project serves as a practical case study in Data Analytics, showcasing end-to-end data pipeline management.*
