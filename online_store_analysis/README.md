@@ -36,10 +36,12 @@ The analysis is based on three interconnected tables:
 
 ## Key Business Insights
 * The leading region is **Europe** (448.5M USD), particularly ***Southern Europe*** subregion (166.2M USD).
-* The business relies heavily on high-volume, low-margin categories, but most profit comes from Office Supplies, Household, and Cosmetics.**
+* The business relies heavily on high-volume, low-margin categories, but most profit comes from Office Supplies, Household, and Cosmetics.
+* The analysis indicates **no direct correlation** between the time interval from order placement to shipment and the resulting profit. Profitability does not appear to be influenced by how long it takes to process and ship an order. Instead, the primary drivers of profit are factors such as **customer demand, product quality, and brand recognition**. These elements play a significantly larger role in determining sales volume and profitability.
 
 ### 📈 Visualizations
 **![Category Analysis](./category_analysis.png)**
 **![Heatmap ](./heatmap.png)**
+**![Geo Analysis ](./geo_analysis.png)**
 ---
 *This project serves as a practical case study in Data Analytics, showcasing end-to-end data pipeline management.*
