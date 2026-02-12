@@ -31,13 +31,15 @@ The analysis is based on three interconnected tables:
 * **Environment:** Google Colab
 
 ## **[View results on Google Colab](https://colab.research.google.com/drive/1AlV5IAcvsGVyWlAl8RxUjAsZlb8yEfh4?usp=sharing)**
-**[View PDF FILE](./report analysis for online store.pdf)**
-**[View IPYNB File ](./project__analysis_for_online_store.ipynb)**
+##**[View PDF FILE](./report analysis for online store.pdf)**
+##**[View IPYNB File](./project__analysis_for_online_store.ipynb)**
 
 ## Key Business Insights
 * The leading region is **Europe** (448.5M USD), particularly ***Southern Europe*** subregion (166.2M USD).
 * The business relies heavily on high-volume, low-margin categories, but most profit comes from Office Supplies, Household, and Cosmetics.**
-**[Category Analysis](./category_analysis.png)**
+
+### 📈 Visualizations
+**category_analysis.png**
 **[Heatmap ](./heatmap.png)**
 ---
 *This project serves as a practical case study in Data Analytics, showcasing end-to-end data pipeline management.*
