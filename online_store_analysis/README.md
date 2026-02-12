@@ -1,4 +1,4 @@
-## 📌 Project Overview
+## Project Overview
 This project focuses on the comprehensive analysis of a global retail dataset, covering sales across physical and online stores over several years. The goal was to perform deep data cleaning, integrate multiple data sources, and extract actionable business insights regarding profitability, logistics, and consumer behavior.
 
 ## 📁 Dataset Description
@@ -25,15 +25,19 @@ The analysis is based on three interconnected tables:
 * Analyzed sales dynamics over time to identify growth trends.
 * Evaluated weekday sales patterns to determine product seasonality.
 
-## 📊 Tech Stack
+## Tech Stack
 * **Language:** Python (Pandas, NumPy)
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Google Colab
 
 ## **[View results on Google Colab](https://colab.research.google.com/drive/1AlV5IAcvsGVyWlAl8RxUjAsZlb8yEfh4?usp=sharing)**
-## 💡 Key Business Insights
+**[View PDF FILE](./report analysis for online store.pdf)**
+**[View IPYNB File ](./project__analysis_for_online_store.ipynb)**
+
+## Key Business Insights
 * The leading region is **Europe** (448.5M USD), particularly ***Southern Europe*** subregion (166.2M USD).
 * The business relies heavily on high-volume, low-margin categories, but most profit comes from Office Supplies, Household, and Cosmetics.**
-
+**[Category Analysis](./category_analysis.png)**
+**[Heatmap ](./heatmap.png)**
 ---
 *This project serves as a practical case study in Data Analytics, showcasing end-to-end data pipeline management.*
