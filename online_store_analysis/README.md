@@ -34,8 +34,6 @@ The analysis is based on three interconnected tables:
 ## 💡 Key Business Insights
 * The leading region is **Europe** (448.5M USD), particularly ***Southern Europe*** subregion (166.2M USD).
 * The business relies heavily on high-volume, low-margin categories, but most profit comes from Office Supplies, Household, and Cosmetics.**
-* (Add a specific insight from your work, e.g., "Online channels show 20% higher profit margins in Europe.")
-* (Add another insight, e.g., "Shipping delays significantly impact repeat purchase rates in the electronics category.")
 
 ---
 *This project serves as a practical case study in Data Analytics, showcasing end-to-end data pipeline management.*
