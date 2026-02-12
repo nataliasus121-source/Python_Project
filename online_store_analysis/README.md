@@ -30,9 +30,9 @@ The analysis is based on three interconnected tables:
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Google Colab
 
-## * **[View results on Google Colab](https://colab.research.google.com/drive/1AlV5IAcvsGVyWlAl8RxUjAsZlb8yEfh4?usp=sharing)**
-##* **[View PDF FILE](./report_analysis.pdf)**
-##* **[View IPYNB File](./project__analysis_for_online_store.ipynb)**
+## **[View results on Google Colab](https://colab.research.google.com/drive/1AlV5IAcvsGVyWlAl8RxUjAsZlb8yEfh4?usp=sharing)**
+## **[View PDF FILE](./report_analysis.pdf)**
+## **[View IPYNB File](./project__analysis_for_online_store.ipynb)**
 
 ## Key Business Insights
 * The leading region is **Europe** (448.5M USD), particularly ***Southern Europe*** subregion (166.2M USD).
