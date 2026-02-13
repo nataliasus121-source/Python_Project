@@ -46,7 +46,10 @@ The analysis covers user sessions, purchasing behaviour, revenue drivers, and tr
 * **[**Tableau Public:** ](https://public.tableau.com/views/Sales_PerformanceTrendUserBehaviour/SalesPerformanceTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 * **[**Google Colab:** ](https://colab.research.google.com/drive/1udmTFRLUvte-2zT3qwz0LTUojhTOw7Sk?usp=sharing)**
 * **[View IPYNB File](./report_e-commerce_&_customer_analytics_.ipynb)**
-
+**![Pareto Analysis](./pareto_analysis.png)**
+**![Registered & Unregistered Dayly Sales](./registered_unregistered_dayly_sales.png)**
+**![Top 10 Categories by Revenue](./top_10_categories_by_revenue.png)**
+ **![Average Order Value by Traffic Channel](./average_order_value_by_traffic_channel.png)** 
 
 ---
 
