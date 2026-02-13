@@ -19,7 +19,7 @@ The analysis covers user sessions, purchasing behaviour, revenue drivers, and tr
 ---
 
 ## Key Business Insights
-* **Revenue Geography:** The Americas market is dominant, contributing over **$17.6M** in revenue. The USA is the key region driving global consumption trends.
+* **Revenue Distribution by Geography:** The Americas market is dominant, contributing over **$17.6M** in revenue. The USA is the key region driving global consumption trends.
 * **Top Product Categories:** High-value items such as **sofas, chairs, and beds** are the primary sales drivers.
 * **Device Strategy:** While Desktop accounts for **59%** of revenue, Mobile devices generate a significant **39%**, highlighting the importance of cross-platform optimization.
 * **Marketing Efficiency:** Organic traffic is the most effective channel (**34%** of revenue), indicating high SEO value and brand awareness compared to paid advertising (CPC).
@@ -37,8 +37,8 @@ The analysis covers user sessions, purchasing behaviour, revenue drivers, and tr
 ## Key Skills Demonstrated
 * **Cloud Data Management:** Querying large datasets directly from BigQuery.
 * **Statistical Analysis:** Hypothesis testing and correlation analysis.
-* **Data Visualization:** Creating clear, business-oriented charts for stakeholders.
-* **Problem Solving:** Translating raw data into strategic business recommendations.
+* **Data Visualization:** Translating metrics into decision-oriented visuals.
+* **Analytical Reasoning:** Translating raw data into strategic business recommendations.
 
 ---
 
@@ -54,7 +54,7 @@ The analysis covers user sessions, purchasing behaviour, revenue drivers, and tr
 ---
 
 ## Contact Information
-I am actively looking for **Data Analyst / Business Analyst** opportunities in Ireland.
+Actively seeking **Data Analyst / Business Analyst** opportunities in Ireland.
 
 * **LinkedIn:** [linkedin.com/in/natalia-sus]
 * **Email:** [nataliiasus122@gmail.com]
