@@ -1,6 +1,6 @@
 ### **PYTHON PROJECTS**
 
-**[A/B Test Significance Calculator (Python & SQL)](./ab_test_significance_calculator/)**
+**[A/B Test Significance Calculator (Python & SQL)](https://github.com/nataliasus121-source/Python_Project/tree/main/ab_test_significance_calculator)**
 * Developed an automated tool to evaluate the statistical significance of product changes across key conversion metrics (Checkout, Account Creation, etc.).
 * Implemented a **Two-proportion Z-test** framework using SciPy and Pandas to distinguish real business uplift from random noise with a 95% confidence level.
 * Designed a scalable architecture supporting multi-level segmentation by Device, Channel, and Geography to identify hidden performance patterns.
