@@ -41,9 +41,9 @@ The analysis covers user sessions, purchasing behaviour, revenue drivers, and tr
 * **Problem Solving:** Translating raw data into strategic business recommendations.
 
 ---
-🔗 *[**Tableau Public:** ](https://public.tableau.com/views/Sales_PerformanceTrendUserBehaviour/SalesPerformanceTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
-🔗 *[**Google Colab:** ](https://colab.research.google.com/drive/1udmTFRLUvte-2zT3qwz0LTUojhTOw7Sk?usp=sharing)*
-   *(View Colab results:)(./report_e-commerce_&_customer_analytics_.ipynb)
+* *[**Tableau Public:** ](https://public.tableau.com/views/Sales_PerformanceTrendUserBehaviour/SalesPerformanceTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+* *[**Google Colab:** ](https://colab.research.google.com/drive/1udmTFRLUvte-2zT3qwz0LTUojhTOw7Sk?usp=sharing)*
+* ***[View IPYNB File](./report_e-commerce_&_customer_analytics_.ipynb)
 
 
 ---
