@@ -110,7 +110,7 @@ This tool allows analysts and product teams to:
 
 ---
 ## **Results**
-* **[A/B Test Significance Calculator](./ab-test-significance-calculator)**
+* **[A/B Test Significance Calculator](./ab_test_significance_calculator.ipynb)**
 * **[View CSV FILE](https://drive.google.com/file/d/1dvBsvxt6zkhTb_me-jTMm9KrWe4KHzmr/view?usp=sharing)**
 * **[View Excel File](https://docs.google.com/spreadsheets/d/19RVpOy3DeleAEH4L-0DVow7Xx5TnR80Z/edit?usp=sharing&ouid=111842347865975349280&rtpof=true&sd=true)**
 * **[Tableau Dashboards](https://public.tableau.com/shared/9B2344D2T?:display_count=n&:origin=viz_share_link)**
