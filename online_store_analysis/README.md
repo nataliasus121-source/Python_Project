@@ -1,7 +1,7 @@
-## Project Overview
+## Project Overview: Online Store Analysis
 This project focuses on the comprehensive analysis of a global retail dataset, covering sales across physical and online stores over several years. The goal was to perform deep data cleaning, integrate multiple data sources, and extract actionable business insights regarding profitability, logistics, and consumer behavior.
 
-## 📁 Dataset Description
+## Dataset Description
 The analysis is based on three interconnected tables:
 * **`events.csv`**: Transactional data (sales, dates, costs, shipping info).
 * **`products.csv`**: Product catalog with categories and unique codes.
